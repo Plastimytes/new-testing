@@ -2,5 +2,7 @@ This the second time to upload such a large file to github. It is best to use th
 To connect the back end create a .env file to store info about the database like the localhost, password, d name etc
 
 <b>How to connect to front end of the web app<b><br>
-You can use a .env file to add the database details and then under the models folder create a db.js file for these details 
+You can use a .env file to add the database details and then under the models folder create a db.js file for these details
+
+You can use thunder client or postman to test your API paths' connection to the database 
 
