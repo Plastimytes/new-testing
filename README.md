@@ -11,3 +11,5 @@ You can use thunder client or postman to test your API paths' connection to the 
 The server.js file is created separately and contains statements that show up in the terminal
  
 
+All attributes in the database must coordinate with the controllers
+
