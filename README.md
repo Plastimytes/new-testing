@@ -8,8 +8,9 @@ You can use a .env file to add the database details and then under the models fo
 
 You can use thunder client or postman to test your API paths' connection to the database 
 
-The server.js file is created separately and contains statements that show up in the terminal
+The server.js file is created separately and contains statements that show up in the terminal. Statements that show whether or not one is connected to the database 
  
 
 All attributes in the database must coordinate with the controllers
+
 
