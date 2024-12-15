@@ -6,11 +6,12 @@ Create a controller folder and a routes folder
 <b>How to connect to front end of the web app<b><br>
 You can use a .env file to add the database details and then under the models folder create a db.js file for these details
 
-You can use thunder client or postman to test your API paths' connection to the database 
+You can use thunder client or postman to test your API paths' connection to the database.CRUD operations (Post,Get etc)
 
 The server.js file is created separately and contains statements that show up in the terminal. Statements that show whether or not one is connected to the database 
  
 
 All attributes in the database must coordinate with the controllers
+
 
 
