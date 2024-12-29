@@ -3,6 +3,7 @@ To connect the back end create a .env file to store info about the database like
 
 Create a controller folder and a routes folder 
 
+
 <b>How to connect to front end of the web app<b><br>
 You can use a .env file to add the database details and then under the models folder create a db.js file for these details
 
